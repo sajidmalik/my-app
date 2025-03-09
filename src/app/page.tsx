@@ -10,7 +10,7 @@ export default function Home() {
       <li>The magic of thinking big</li>
       <li>This is marketing</li>
       <li>Masters of scale</li>
-      <li>The innovator's dilemma</li>
+      <li>The innovatorI&apos;s dilemma</li>
       <li>Trillion dollar coach</li>
       <li>Built to last</li>
       <li>Zero to one</li>
